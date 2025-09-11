@@ -1,4 +1,4 @@
-Documento Maestro — Mía Salud Natural
+documents — Mía Salud Natural
 1. Información General del Negocio
 Nombre Comercial: Mía Salud Natural
 Dirección: Av. Arequipa 1860, Lince, Lima, Perú
