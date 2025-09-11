@@ -7,4 +7,4 @@ Industria: Salud íntima femenina y bienestar integral de la mujer
 •	Métodos de Pago: Pago anticipado para todas las compras. (Excepción: en Lima Metropolitana se puede pagar contra entrega.)
 •	Envíos (Operadores):
 •	Shalom – El cliente paga el costo de envío al momento de recoger.
-•	Olva Courier – El envío se paga por adelantado junto con la compra.
+•	Olva Courier – El envío se paga por adelantado junto con la compra
