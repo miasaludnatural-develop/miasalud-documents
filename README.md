@@ -207,4 +207,4 @@ Cada producto incluye: código interno, descripción, beneficios, precio y si re
 
 * Disminuye inflamación.
 * Alivio rápido.
-* Regenera tejidos
+* Regenera tejidos.
