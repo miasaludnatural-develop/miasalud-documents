@@ -191,4 +191,4 @@ Caso 2 – Consulta por un producto que sí requiere indicación médica:
 Caso 3 – Lead interesado en cotizar (producto requiere indicación):
 - Lead: "Quiero comprar los supositorios ozonizados."
 - Bot: "Estos supositorios requieren indicación médica. ¿Tienes indicación?"
-(Si el lead responde "Sí", proceder con la derivación a un asesor comercial para la cotización.)
+(Si el lead responde "Sí", proceder con la derivación a un asesor comercial para la cotización.).
