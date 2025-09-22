@@ -2,21 +2,16 @@ Documents
 1. Información General de la Empresa Operadora
 
 Razón Social: IronSolution EIRL
-
 RUC: 20608301161
-
 Teléfono: +51 942266615
 
 2. Información General del Negocio – Mía Salud Natural
 
 Nombre Comercial: Mía Salud Natural
-
 Empresa Responsable de Facturación: IronSolution EIRL
-
-Dirección: Av. Arequipa 1860, Lince, Lima, Perú
-
+Dirección de Atención y Correspondencia: Av. Arequipa 1860, distrito de Lince, ciudad de Lima, Perú.
+Nota Importante: No contamos con tienda física abierta al público en esta dirección. Sin embargo, se pueden coordinar atenciones, entregas o reuniones previamente agendadas en este punto.
 Industria: Salud íntima femenina y bienestar integral de la mujer
-
 Cobertura: Envíos a todo el Perú
 
 Métodos de Pago:
@@ -38,7 +33,11 @@ Código: CRAV
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 30 gramos
+
 Requiere indicación médica: Sí
+
+Línea: Terapia del dolor
 
 Descripción: Crema tópica con aceite ozonizado que ayuda a aliviar la sensación de pesadez y mejora la apariencia de las várices.
 
@@ -56,7 +55,11 @@ Código: GLAN
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 30 gramos
+
 Requiere indicación médica: Sí
+
+Línea: Terapia del dolor
 
 Descripción: Gel con aceite ozonizado para alivio localizado de dolores musculares y articulares.
 
@@ -74,7 +77,11 @@ Código: GLAB
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 30 gramos
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Ácido Bórico
 
 Descripción: Gel íntimo formulado con ácido bórico para el control de la candidiasis vaginal.
 
@@ -92,7 +99,11 @@ Código: GLAH
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 30 gramos
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Hidratación Íntima
 
 Descripción: Gel íntimo con ácido hialurónico para la hidratación y regeneración de la mucosa vaginal.
 
@@ -112,7 +123,11 @@ Código: GLOZ
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 30 gramos
+
 Requiere indicación médica: Sí
+
+Línea: Línea Ozonizada
 
 Descripción: Gel íntimo con aceite ozonizado que protege la microbiota y apoya en irritaciones vaginales leves.
 
@@ -130,7 +145,11 @@ Código: JFAH
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 250 ml
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Hidratación Íntima
 
 Descripción: Jabón íntimo femenino con agentes hidratantes que cuidan la microbiota vaginal.
 
@@ -148,7 +167,11 @@ Código: JFOZ
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 250 ml
+
 Requiere indicación médica: Sí
+
+Línea: Línea Ozonizada
 
 Descripción: Jabón íntimo con aceite ozonizado que ayuda a mantener el equilibrio natural de la zona íntima.
 
@@ -166,7 +189,11 @@ Código: JMOZ
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 250 ml
+
 Requiere indicación médica: Sí
+
+Línea: Línea Ozonizada
 
 Descripción: Jabón íntimo masculino con ozono para higiene profunda.
 
@@ -184,7 +211,11 @@ Código: OVABP
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Ácido Bórico
 
 Descripción: Óvulos vaginales que combinan ácido bórico y probióticos para control de candidiasis y restauración de la microbiota.
 
@@ -202,7 +233,11 @@ Código: OVAB
 
 Precio: S/ 65.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Ácido Bórico
 
 Descripción: Óvulos vaginales con ácido bórico para tratamiento de candidiasis vaginal.
 
@@ -220,7 +255,11 @@ Código: OVAT
 
 Precio: S/ 65.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Otros
 
 Descripción: Óvulos con extracto natural de árbol del té, con propiedades antibacterianas y antifúngicas.
 
@@ -238,7 +277,11 @@ Código: OVPR
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: No (producto no disponible actualmente)
+
+Línea: Línea Probiótica
 
 Descripción: Óvulos con probióticos vivos para fortalecer la flora vaginal.
 
@@ -256,7 +299,11 @@ Código: OVAH
 
 Precio: S/ 65.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Línea de Hidratación Íntima
 
 Descripción: Óvulos con ácido hialurónico para hidratación vaginal intensa.
 
@@ -274,7 +321,11 @@ Código: OVOZ
 
 Precio: S/ 65.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Línea Ozonizada
 
 Descripción: Óvulos con aceite ozonizado para apoyo en infecciones vaginales resistentes.
 
@@ -292,7 +343,11 @@ Código: COPR
 
 Precio: S/ 159.00
 
+Presentación: Frasco de 30 cápsulas
+
 Requiere indicación médica: Sí
+
+Línea: Línea Probiótica
 
 Descripción: Cápsulas probióticas orales que refuerzan la flora intestinal y vaginal.
 
@@ -310,7 +365,11 @@ Código: SPOZ
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Línea Ozonizada
 
 Descripción: Supositorios con ozono que ayudan en procesos inflamatorios y de recuperación local.
 
@@ -328,7 +387,11 @@ Código: SPPX
 
 Precio: S/ 68.00
 
+Presentación: Frasco de 7 unidades
+
 Requiere indicación médica: Sí
+
+Línea: Terapia del dolor
 
 Descripción: Supositorios con piroxicam y ozono para efecto antiinflamatorio y analgésico localizado.
 
@@ -344,8 +407,32 @@ Posibles formas de mención por el lead: supositorios piroxicam, supositorios oz
 
 Actualmente no hay promociones en este momento.
 
-5. Aclaración Final
+5. Líneas de Productos – Mía Salud Natural
+
+En la Farmacia Virtual de Mía Salud Natural, los productos se agrupan en las siguientes líneas:
+
+Kits
+
+Línea de Ácido Bórico
+
+Línea de Hidratación Íntima
+
+Línea Ozonizada
+
+Línea Probiótica
+
+Otros
+
+Terapia del dolor
+
+6. Aclaración Final
 
 Este es el catálogo oficial completo de productos de Mía Salud Natural.
-Todos los frascos de Ovulos y supositorios tienen 7 unidades.
+
+Todos los frascos de óvulos y supositorios contienen 7 unidades.
+
+Todos los geles y cremas vienen en frascos de 30 gramos.
+
+Todos los jabones vienen en frascos de 250 ml.
+
 Cualquier producto que no se encuentre en este listado no está disponible ni se tiene conocimiento al respecto.
