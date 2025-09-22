@@ -178,7 +178,7 @@ Contribuye a reducir sudoración en la zona íntima
 
 Posibles formas de mención por el lead: jabón íntimo masculino, jabón ozonizado hombre, jabón de ozono hombre
 
-3.9 Óvulos Ácido Bórico + Probióticos
+3.9 Óvulos Ácido Bórico + Probióticos (No disponible en este momento)
 
 Código: OVABP
 
@@ -232,7 +232,7 @@ Apoyan en molestias vaginales leves
 
 Posibles formas de mención por el lead: óvulos árbol de té, óvulos naturales, óvulos antibacterianos
 
-3.12 Óvulos de Probióticos
+3.12 Óvulos de Probióticos (No disponible en este momento)
 
 Código: OVPR
 
