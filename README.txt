@@ -347,4 +347,5 @@ Actualmente no hay promociones en este momento.
 5. Aclaración Final
 
 Este es el catálogo oficial completo de productos de Mía Salud Natural.
+Todos los frascos de Ovulos y supositorios tienen 7 unidades.
 Cualquier producto que no se encuentre en este listado no está disponible ni se tiene conocimiento al respecto.
