@@ -279,7 +279,7 @@ Precio: S/ 68.00
 
 Presentación: Frasco de 7 unidades
 
-Requiere indicación médica: No (producto no disponible actualmente)
+Requiere indicación médica: Si (producto no disponible actualmente)
 
 Línea: Línea Probiótica
 
@@ -357,7 +357,7 @@ Refuerzan la inmunidad
 
 Apoyan equilibrio intestinal y vaginal
 
-Posibles formas de mención por el lead: probióticos orales, cápsulas probióticas, probióticos flora vaginal
+Posibles formas de mención por el lead: probióticos orales, cápsulas probióticas, probióticos flora vaginal, probiticos
 
 3.16 Supositorios Ozonizados
 
