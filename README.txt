@@ -91,7 +91,7 @@ Ayuda a reducir la recurrencia de candidiasis
 
 Contribuye al equilibrio del pH vaginal
 
-Posibles formas de mención por el lead: gel para candidiasis, gel ácido bórico, gel íntimo bórico
+Posibles formas de mención por el lead: gel para candidiasis, gel ácido bórico, gel íntimo bórico, gel para la candidiasis
 
 3.4 Gel Íntimo Hidratante de Ácido Hialurónico
 
@@ -115,7 +115,7 @@ Favorece la elasticidad y confort vaginal
 
 Previene la sequedad vaginal
 
-Posibles formas de mención por el lead: gel hidratante íntimo, gel ácido hialurónico, gel sequedad vaginal
+Posibles formas de mención por el lead: gel hidratante íntimo, gel ácido hialurónico, gel sequedad vaginal, crema hidratante, gel de hialurónico
 
 3.5 Gel Íntimo Ozonizado
 
@@ -137,7 +137,7 @@ Proporciona frescura íntima
 
 Contribuye a la protección frente a infecciones vaginales leves
 
-Posibles formas de mención por el lead: gel ozono íntimo, gel ozonizado, gel para irritaciones vaginales
+Posibles formas de mención por el lead: gel de ozono, gel ozonizado, gel para irritaciones vaginales
 
 3.6 Jabón Íntimo Femenino Hidratante
 
@@ -151,7 +151,7 @@ Requiere indicación médica: Sí
 
 Línea: Línea de Hidratación Íntima
 
-Descripción: Jabón íntimo femenino con agentes hidratantes que cuidan la microbiota vaginal.
+Descripción: Jabón íntimo femenino con agentes hidratantes que cuidan la microbiota vaginal, PH 6.5
 
 Beneficios:
 
@@ -159,7 +159,7 @@ Limpieza diaria respetando el pH natural
 
 Apoya a prevenir resequedad íntima
 
-Posibles formas de mención por el lead: jabón íntimo hidratante, jabón vaginal hidratante, jabón femenino pH
+Posibles formas de mención por el lead: jabón íntimo hidratante, jabón vaginal hidratante, jabón femenino pH, jabón de hialurónico, jabón hidratante.
 
 3.7 Jabón Íntimo Femenino Ozonizado
 
