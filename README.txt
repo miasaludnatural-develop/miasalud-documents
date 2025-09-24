@@ -271,29 +271,7 @@ Apoyan en molestias vaginales leves
 
 Posibles formas de mención por el lead: óvulos árbol de té, óvulos naturales, óvulos antibacterianos
 
-3.12 Óvulos de Probióticos (No disponible en este momento)
-
-Código: OVPR
-
-Precio: S/ 68.00
-
-Presentación: Frasco de 7 unidades
-
-Requiere indicación médica: Si (producto no disponible actualmente)
-
-Línea: Línea Probiótica
-
-Descripción: Óvulos con probióticos vivos para fortalecer la flora vaginal.
-
-Beneficios:
-
-Restauran la microbiota vaginal
-
-Refuerzan defensas íntimas
-
-Posibles formas de mención por el lead: óvulos probióticos, óvulos flora vaginal, óvulos restaurar flora
-
-3.13 Óvulos Hidratantes de Ácido Hialurónico
+3.12 Óvulos Hidratantes de Ácido Hialurónico
 
 Código: OVAH
 
@@ -315,7 +293,7 @@ Previenen sequedad vaginal crónica
 
 Posibles formas de mención por el lead: óvulos hidratantes, óvulos ácido hialurónico, óvulos sequedad vaginal
 
-3.14 Óvulos Ozonizados
+3.13 Óvulos Ozonizados
 
 Código: OVOZ
 
@@ -337,7 +315,7 @@ Disminuye ardor y molestias locales
 
 Posibles formas de mención por el lead: óvulos ozono, óvulos ozonizados, óvulos infecciones vaginales
 
-3.15 Probióticos Orales en Cápsulas
+3.14 Probióticos Orales en Cápsulas
 
 Código: COPR
 
@@ -359,7 +337,7 @@ Apoyan equilibrio intestinal y vaginal
 
 Posibles formas de mención por el lead: probióticos orales, cápsulas probióticas, probióticos flora vaginal, probiticos
 
-3.16 Supositorios Ozonizados
+3.15 Supositorios Ozonizados
 
 Código: SPOZ
 
@@ -381,7 +359,7 @@ Favorecen la regeneración de mucosas
 
 Posibles formas de mención por el lead: supositorios ozono, supositorios ozonizados, supositorios inflamación
 
-3.17 Supositorios Ozonizados de Piroxicam
+3.16 Supositorios Ozonizados de Piroxicam
 
 Código: SPPX
 
