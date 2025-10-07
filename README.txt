@@ -91,7 +91,7 @@ Ayuda a reducir la recurrencia de candidiasis
 
 Contribuye al equilibrio del pH vaginal
 
-Posibles formas de mención por el lead: gel para candidiasis, gel ácido bórico, gel íntimo bórico, gel para la candidiasis
+Posibles formas de mención por el lead: gel para candidiasis, gel ácido bórico, gel íntimo bórico, gel para la candidiasis, gel de borico.
 
 3.4 Gel Íntimo Hidratante de Ácido Hialurónico
 
