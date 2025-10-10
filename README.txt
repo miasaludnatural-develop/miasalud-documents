@@ -16,7 +16,7 @@ Cobertura: Envíos a todo el Perú
 
 Métodos de Pago:
 
-Pago anticipado para todas las compras
+Pago anticipado para todas las compra
 
 En Lima Metropolitana se puede pagar contra entrega
 
