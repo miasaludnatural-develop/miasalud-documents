@@ -1,10 +1,10 @@
 1. Información General de la Empresa Operadora
 
-Razón Social: IronSolution EIRL
+Razón Social: IronSolution EIRL -  – Mía Salud Natural
 RUC: 20608301161
 Teléfono: +51 942266615
 
-2. Información General del Negocio – Mía Salud Natural
+2. Información General del Negocio
 
 Nombre Comercial: Mía Salud Natural
 Empresa Responsable de Facturación: IronSolution EIRL
