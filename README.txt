@@ -1,5 +1,5 @@
 Documents
-1. Información General de la Empresa
+1. Información General de la EmpresA
 
 Razón Social: IronSolution EIRL
 RUC: 20608301161
