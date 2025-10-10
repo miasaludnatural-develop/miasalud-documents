@@ -14,7 +14,6 @@ Industria: Salud íntima femenina y bienestar integral de la mujer
 Cobertura: Envíos a todo el Perú
 
 Métodos de Pago:
-
 Pago anticipado para todas las compra
 
 En Lima Metropolitana se puede pagar contra entrega
